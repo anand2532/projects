@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Air Pollution Monitoring System
 
 This is **IOT based Air Pollution Monitoring System** which measures indoor harmful gases present in air like Carbon Dioxide(CO2) using an MQ135 gas sensor and Carbon Monoxide(CO) using an MQ7 sensor. It will show the air quality in PPM(Parts Per Million) on the LCD and as well as on [Thingspeak](https://thingspeak.com/channels/1347787) so that we can monitor it very easily in PPM.
@@ -65,3 +66,5 @@ However, in order to get the real value of the gas concentration according to th
   <img align="center" src="https://user-images.githubusercontent.com/71394525/136599263-e84b990a-dead-48c4-b1c8-b88777c3dafe.png" width="700" height="400" />
 </p>
 
+=======
+>>>>>>> main
