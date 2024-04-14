@@ -1,6 +1,6 @@
 /*****************************************************************
  * Board: Arduino Uno (ATMega2560)
- * Developed by: Ajay Bairwa    Email: yourfriend9014@gmail.com
+ * 
  * 
  * Nodemcu-ESP8266 WiFi Module is used to connect to Internet 
  * and send data to https://thingspeak.com server 
