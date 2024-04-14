@@ -1,5 +1,4 @@
-#
-# Wizard's LED Light Controller for RC Cars/Trucks
+# headlight controller
 
 ESP32-based. No additional hardware required. Pretty much any
 ESP32 module/board will work, as long as it has enough GPIO pins.
